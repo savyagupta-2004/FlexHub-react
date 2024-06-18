@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlexHub-react/static/css/main.7eee306d.css",
+    "main.js": "/FlexHub-react/static/js/main.5caefa15.js",
+    "static/js/453.4bd2d578.chunk.js": "/FlexHub-react/static/js/453.4bd2d578.chunk.js",
+    "index.html": "/FlexHub-react/index.html",
+    "main.7eee306d.css.map": "/FlexHub-react/static/css/main.7eee306d.css.map",
+    "main.5caefa15.js.map": "/FlexHub-react/static/js/main.5caefa15.js.map",
+    "453.4bd2d578.chunk.js.map": "/FlexHub-react/static/js/453.4bd2d578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eee306d.css",
+    "static/js/main.5caefa15.js"
+  ]
+}
